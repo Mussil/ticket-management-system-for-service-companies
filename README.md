@@ -5,13 +5,13 @@ Project in “Fundamentals of Software Engineering “course - developed a ticke
 # 💻 Technologies 
 
 #### Languages: <br />
-  * CPP
+  * C
 #### Workspace: <br /> 
   * Visual Studio <br />
  
 
 # 📗 Authors
 Ruth Bracha Cohen <br />
-Chaya Levin <br />
+Mussi Levin <br />
 Shaked Levi <br />
 Tair Shriki <br />
